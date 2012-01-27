@@ -1,0 +1,28 @@
+pst-vowel.sty -- pstricks additions for drawing vowel diagrams.
+Copyright 2009 by Alan Munn <amunn@msu.edu>
+based on code in vowel.sty Copyright 2002 by Rei Fukui
+
+This package insert nodes for use with pstricks so that arrows can 
+be drawn to show diphthongs on vowel charts created with vowel.sty.
+
+For cardinal vowels, the change is minimal, since predefined node
+labels are used. For non-cardinal vowels, an extra node argument
+must be provided.
+
+This package may be distributed and/or modified under the
+conditions of the LaTeX Project Public License, either version 1.3
+of this license or any later version.
+The latest version of this license is in
+  http://www.latex-project.org/lppl.txt
+and version 1.3 or later is part of all distributions of LaTeX
+version 2005/12/01 or later.
+
+This package has the LPPL maintenance status `maintained'.
+
+The Current Maintainer of this package is Alan Munn.
+
+This package consists of the file pst-vowel.sty and documentation files
+pst-vowel.tex and pst-vowel.pdf
+
+Version 1.0 2009/04/24
+
